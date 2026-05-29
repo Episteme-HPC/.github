@@ -1,4 +1,4 @@
-# 🌌 Episteme Health & Computational Physics (HCP)
+# 🌌 Episteme High Performance Computing (HPC)
 
 Welcome to the official organization for the **Episteme Scientific Computing Framework**. 
 
