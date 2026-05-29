@@ -11,4 +11,4 @@ We believe that software for scientists should mirror the natural hierarchy of t
 We are looking for researchers, engineers, and contributors passionate about the intersection of AI, Physics, and Open Source.
 
 ---
-*© 2025-2026 Episteme-HCP. Built with Antigravity.*
+*© 2025-2026 Episteme-HPC. Built with Antigravity.*
